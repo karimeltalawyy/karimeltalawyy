@@ -13,13 +13,9 @@ Here are some last work apps:
 
 - [Greatwhite Presets](https://apps.apple.com/app/greatwhite-filters/id6446051483) - The Photo filters Presets mobile app facilitates the download and upload of presets for Adobe Lightroom, a popular photo editing software. Users can easily explore, download, and apply presets created by professionals, enhancing their photos with just a few clicks. The app fosters collaboration and creativity by allowing users to share their own presets with the community. Simplifying the process of discovering and acquiring presets, the app streamlines photographers' editing workflow.
 
-[![App Store](https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg)](https://apps.apple.com/app/greatwhite-filters/id6446051483)
+[![App Store](https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg)](https://apps.apple.com/app/greatwhite-filters/id6446051483) [![Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.your.package.name)
 
-[![Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.your.package.name)
 
-<!-- Resize images -->
-<img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" width="200" height="51" alt="App Store">
-<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" height="60" alt="Google Play">
 
 
 - [Acdmates](https://example.com/app2) -  Acdmates is the ultimate platform empowering lecturers to effortlessly track student attendance using a cutting-edge Randomized QR Code system. 📊🔒 With MetQ, lecturers can bid farewell to tedious manual attendance taking and say hello to seamless automation. 🎯 Students simply need to scan the QR code, and voila! The attendance is recorded, enabling them to effortlessly track their attendance history and stay on top of their academic progress. 📝✅ But that's not all! MetQ goes beyond convenience by revolutionizing the way we approach attendance management. 💡 It saves precious time, eliminates unnecessary effort, and even cuts down on costs, making it a game-changer for educational institutions. 💪💰 Moreover, MetQ offers a multitude of advantages for students, addressing common attendance-related challenges. 🎓 From ensuring accurate attendance records to facilitating better attendance monitoring, our product tackles these issues head-on, enabling students to focus on what truly matters: their education. 📚✨
