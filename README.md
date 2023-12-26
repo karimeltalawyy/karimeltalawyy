@@ -11,10 +11,16 @@ Hello, I'm Karim, a Junior Flutter developer with 3+ years of experience in the 
 
 Here are some last work apps:
 
-- [Greatwhite Presets](https://apps.apple.com/app/greatwhite-filters/id6446051483) - The Photo filters Presets mobile app facilitates the download and upload of presets for Adobe Lightroom, a popular photo editing software. Users can easily explore, download, and apply presets created by professionals, enhancing their photos with just a few clicks. The app fosters collaboration and creativity by allowing users to share their own presets with the community. Simplifying the process of discovering and acquiring presets, the app streamlines photographers' editing workflow.
+- [Greatwhite Filters](https://apps.apple.com/app/greatwhite-filters/id6446051483)
+- The Photo filters Presets mobile app facilitates the download and upload of presets for Adobe Lightroom, a popular photo editing software. Users can easily explore, download, and apply presets created by professionals, enhancing their photos with just a few clicks. The app fosters collaboration and creativity by allowing users to share their own presets with the community. Simplifying the process of discovering and acquiring presets, the app streamlines photographers' editing workflow.
 
-[![App Store](https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg)](https://apps.apple.com/app/greatwhite-filters/id6446051483) [![Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.your.package.name)
+<a href="https://apps.apple.com/app/greatwhite-filters/id6446051483">
+  <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" width="200" alt="App Store">
+</a>
 
+<a href="https://play.google.com/store/apps/details?id=com.your.package.name">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" alt="Google Play">
+</a>
 
 
 
